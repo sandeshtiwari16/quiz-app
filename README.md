@@ -2,6 +2,8 @@
 
 [To see working of website](https://sandeshtiwari16.github.io/quiz-app/index.html)
 
+`Finsih quiz` button is not functional.
+
 _Front-end and Business logic Quiz App_
 
 ### Description
