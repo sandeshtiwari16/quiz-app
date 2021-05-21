@@ -1,6 +1,6 @@
 # Quiz App
 
-[To see working of website](https://sandeshtiwari16.github.io/quiz-app/index.html)
+[Demo](https://sandeshtiwari16.github.io/quiz-app/index.html)
 
 `Finsih quiz` button is not functional.
 
